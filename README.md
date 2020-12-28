@@ -1,2 +1,3 @@
 # Clustering---Software-project-course
-C
+
+Explanation is available at sp_project.pdf file
